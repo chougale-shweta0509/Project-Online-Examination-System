@@ -15,5 +15,6 @@ namespace Examination.ViewModel
         public string Message { get; set; }
 
         public List<QnAViewModel> QnAs { get; set; }
+
     }
 }

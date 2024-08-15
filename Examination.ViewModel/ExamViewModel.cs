@@ -23,6 +23,7 @@ namespace Examination.ViewModel
             StartDate = model.StartDate;
             Time = model.Time;
             GroupId = model.GroupId;
+
         }
 
         public Exams ConvertViewModel(ExamViewModel model)

@@ -16,5 +16,6 @@ namespace Examination.BLL.Services
         IEnumerable<QnAViewModel> GetAllQnAByExam(int examId);
 
         bool IsExamAttended(int examId, int studentId);
+
     }
 }

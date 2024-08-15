@@ -20,6 +20,7 @@ namespace Examination.BLL.Services
 
         StudentViewModel GetById(int studentId);
 
+
         Task<StudentViewModel> UpdateAsync(StudentViewModel student);
 
 

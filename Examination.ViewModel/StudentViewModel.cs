@@ -44,7 +44,6 @@ namespace Examination.ViewModel
         }
 
 
-
         public int Id { get; set; }
         [Required,Display(Name="Student Name")]
         public string Name { get; set; }

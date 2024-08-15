@@ -10,6 +10,7 @@ namespace Examination.ViewModel
 {
     public class QnAViewModel
     {
+
         public int Id { get; set; }
         [Required]
         public string Question { get; set; }

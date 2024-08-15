@@ -13,5 +13,6 @@ namespace Examination.ViewModel
         public string name { get; set; }
 
         public bool IsSelected { get; set; }
+
     }
 }

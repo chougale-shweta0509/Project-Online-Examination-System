@@ -18,6 +18,7 @@ namespace Examination.Data.Entity
         public int Role { get; set; }
 
         public ICollection<Groups> Groups { get; set; } = new HashSet<Groups>();
+
     }
 
 }

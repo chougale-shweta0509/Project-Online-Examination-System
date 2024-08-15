@@ -18,6 +18,5 @@ namespace Examination.ViewModel
 
         public int WrongAnswer { get; set; }
 
-
     }
 }
