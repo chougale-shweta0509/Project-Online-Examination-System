@@ -17,6 +17,7 @@ namespace Examination.ViewModel
         }
         public UserViewModel(Users model )
         {
+        
             Id = model.Id;
             Name = model.Name;
             UserName = model.UserName;
@@ -28,13 +29,12 @@ namespace Examination.ViewModel
             return new Users
             {
                 Id = vm.Id,
-                Name = vm.Name,
+                Name = vm.Name ?? "",
                 UserName = vm.UserName,
                 Password = vm.Password,
                 Role = vm.Role
             };
         }
-
         public int Id { get; set; }
         [Required,Display(Name="Name")]
         public string Name { get; set; }

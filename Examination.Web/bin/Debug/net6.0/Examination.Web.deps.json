@@ -8,6 +8,8 @@
     ".NETCoreApp,Version=v6.0": {
       "Examination.Web/1.0.0": {
         "dependencies": {
+          "Examination.BLL": "1.0.0",
+          "Examination.ViewModel": "1.0.0",
           "Microsoft.EntityFrameworkCore": "6.0.0"
         },
         "runtime": {
@@ -92,7 +94,40 @@
           "System.Runtime.CompilerServices.Unsafe": "6.0.0"
         }
       },
-      "System.Runtime.CompilerServices.Unsafe/6.0.0": {}
+      "System.Runtime.CompilerServices.Unsafe/6.0.0": {},
+      "Examination.BLL/1.0.0": {
+        "dependencies": {
+          "Examination.ViewModel": "1.0.0"
+        },
+        "runtime": {
+          "Examination.BLL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Examination.Data/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "6.0.0"
+        },
+        "runtime": {
+          "Examination.Data.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Examination.ViewModel/1.0.0": {
+        "dependencies": {
+          "Examination.Data": "1.0.0"
+        },
+        "runtime": {
+          "Examination.ViewModel.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
     }
   },
   "libraries": {
@@ -198,6 +233,21 @@
       "sha512": "sha512-/iUeP3tq1S0XdNNoMz5C9twLSrM/TH+qElHkXWaPvuNOt+99G75NrV0OS2EqHx5wMN7popYjpc8oTjC1y16DLg==",
       "path": "system.runtime.compilerservices.unsafe/6.0.0",
       "hashPath": "system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    },
+    "Examination.BLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Examination.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Examination.ViewModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

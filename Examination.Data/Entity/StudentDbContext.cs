@@ -30,5 +30,6 @@ namespace Examination.Data.Entity
         public DbSet<Students> Students { get; set; }
 
         public DbSet<Users> Users { get; set; }
+    
     }
 }

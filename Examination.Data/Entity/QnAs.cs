@@ -24,5 +24,6 @@ namespace Examination.Data.Entity
 
         public Exams Exams { get; set; }
         public ICollection<ExamResults> ExamResults { get; set; } = new HashSet<ExamResults>();
+
     }
 }
