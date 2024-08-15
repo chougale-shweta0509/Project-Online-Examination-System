@@ -10,16 +10,3 @@ C:\Users\Admin\Desktop\Examination\Examination.Data\obj\Debug\net6.0\Examination
 C:\Users\Admin\Desktop\Examination\Examination.Data\obj\Debug\net6.0\refint\Examination.Data.dll
 C:\Users\Admin\Desktop\Examination\Examination.Data\obj\Debug\net6.0\Examination.Data.pdb
 C:\Users\Admin\Desktop\Examination\Examination.Data\obj\Debug\net6.0\ref\Examination.Data.dll
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\bin\Debug\net6.0\Examination.Data.deps.json
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\bin\Debug\net6.0\Examination.Data.dll
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\bin\Debug\net6.0\Examination.Data.pdb
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.csproj.AssemblyReference.cache
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.AssemblyInfoInputs.cache
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.AssemblyInfo.cs
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.csproj.CoreCompileInputs.cache
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.sourcelink.json
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.dll
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\refint\Examination.Data.dll
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\Examination.Data.pdb
-C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.Data\obj\Debug\net6.0\ref\Examination.Data.dll

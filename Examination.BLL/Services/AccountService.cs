@@ -13,8 +13,7 @@ namespace Examination.BLL.Services
     public class AccountService : IAccountService
     {
         IUnitOfWork _unitOfWork;
-
-
+        
 
         public AccountService(IUnitOfWork unitOfWork)
         {
@@ -35,52 +34,12 @@ namespace Examination.BLL.Services
                 _unitOfWork.GenericRepository<Users>().Add(obj);
                 _unitOfWork.Save();
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
                 throw;
                 return false;
             }
             return true;
-        }
-
-        public PagedResult<UserViewModel> GetAllTeacher(int pageNumber, int pageSize)
-        {
-            var vm = new UserViewModel();
-            try
-            {
-                int ExcludeRecords = (pageSize * pageNumber) - pageSize;
-                List<UserViewModel> detailList = new List<UserViewModel>();
-                var model = _unitOfWork.GenericRepository<Users>().GetAll().
-                    Where(a => a.Role == (int)EnumRoles.Teacher).Skip(ExcludeRecords)
-                    .Take(pageSize).ToList();
-
-                detailList = ListInfo(model);
-                if (detailList != null)
-                {
-                    vm.UserList = detailList;
-                    vm.TotalCount = _unitOfWork.GenericRepository<Users>().
-                        GetAll().Count(x => x.Role == (int)EnumRoles.Teacher);
-                }
-
-            }
-            catch (Exception ex)
-            {
-                throw;
-            }
-            var result = new PagedResult<UserViewModel>
-            {
-                Data = vm.UserList,
-                TotalItems = vm.TotalCount,
-                PageNumber = pageNumber,
-                PageSize = pageSize
-            };
-            return result;
-
-        }
-
-        private List<UserViewModel> ListInfo(List<Users> model)
-        {
-            return model.Select(o => new UserViewModel(o)).ToList();
         }
     }
 }

@@ -10,9 +10,4 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.0" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Examination.BLL\Examination.BLL.csproj" />
-    <ProjectReference Include="..\Examination.ViewModel\Examination.ViewModel.csproj" />
-  </ItemGroup>
-
 </Project>

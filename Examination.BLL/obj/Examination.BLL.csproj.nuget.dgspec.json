@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Examination.BLL.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Examination.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Examination.BLL.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Examination.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Examination.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Examination.BLL.csproj",
         "projectName": "Examination.BLL",
-        "projectPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Examination.BLL.csproj",
-        "packagesPath": "C:\\Users\\Rushikesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Examination.BLL.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rushikesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\Examination.ViewModel.csproj": {
-                "projectPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\Examination.ViewModel.csproj"
+              "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\Examination.ViewModel.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\Examination.ViewModel.csproj"
               }
             }
           }
@@ -65,21 +64,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Examination.Data.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Examination.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Examination.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Examination.Data.csproj",
         "projectName": "Examination.Data",
-        "projectPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Examination.Data.csproj",
-        "packagesPath": "C:\\Users\\Rushikesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Examination.Data.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rushikesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -87,7 +86,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -132,21 +130,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\Examination.ViewModel.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\Examination.ViewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\Examination.ViewModel.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\Examination.ViewModel.csproj",
         "projectName": "Examination.ViewModel",
-        "projectPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\Examination.ViewModel.csproj",
-        "packagesPath": "C:\\Users\\Rushikesh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\obj\\",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\Examination.ViewModel.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Rushikesh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,15 +152,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Examination.Data.csproj": {
-                "projectPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Examination.Data.csproj"
+              "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Examination.Data.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Examination.Data.csproj"
               }
             }
           }
@@ -181,12 +178,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Http.Features": {
-              "target": "Package",
-              "version": "[5.0.17, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -203,7 +194,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
