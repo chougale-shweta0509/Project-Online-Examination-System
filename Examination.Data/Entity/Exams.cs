@@ -16,7 +16,7 @@ namespace Examination.Data.Entity
 
         public DateTime  StartDate { get; set; }
 
-        public int time { get; set; }
+        public int Time { get; set; }
 
         public int GroupId { get; set; }
 
@@ -25,5 +25,6 @@ namespace Examination.Data.Entity
         public ICollection<ExamResults> ExamResults { get; set; } = new HashSet<ExamResults>();
 
         public ICollection<QnAs> QnAs { get; set; } 
+    
     }
 }

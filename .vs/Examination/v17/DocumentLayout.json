@@ -1,66 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Examination\\",
+  "WorkspaceRootPath": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\admin\\desktop\\examination\\examination.viewmodel\\enumroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\enumroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\studentcheckboxlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\studentcheckboxlistmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\admin\\desktop\\examination\\examination.bll\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\qnaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\qnaviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\admin\\desktop\\examination\\examination.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\admin\\desktop\\examination\\examination.viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\studentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\resultviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\examviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.viewmodel\\attendexamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24018D12-6874-4585-B3B1-CEAFA55352E0}|Examination.ViewModel\\Examination.ViewModel.csproj|solutionrelative:examination.viewmodel\\attendexamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.data\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\entity\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.data\\entity\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\entity\\qnas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.data\\entity\\qnas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\qnas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\entity\\examresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\examresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.data\\entity\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\entity\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.data\\entity\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\exams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\entity\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.data\\entity\\examresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\examresults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|c:\\users\\admin\\desktop\\examination\\examination.data\\entity\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BF0398C-93C1-42E3-BEE3-1E8E5D64B849}|Examination.Data\\Examination.Data.csproj|solutionrelative:examination.data\\entity\\groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.bll\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.bll\\services\\iqnaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\iqnaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.bll\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\igroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.bll\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\iexamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.bll\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|c:\\users\\rushikesh\\desktop\\onlineexamination\\examination.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CE0FF56-8E36-4561-B5C4-F6E65084B01E}|Examination.BLL\\Examination.BLL.csproj|solutionrelative:examination.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,224 +94,264 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EnumRoles.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\EnumRoles.cs",
-              "RelativeDocumentMoniker": "Examination.ViewModel\\EnumRoles.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\EnumRoles.cs",
-              "RelativeToolTip": "Examination.ViewModel\\EnumRoles.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Title": "StudentCheckBoxListModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\StudentCheckBoxListModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\StudentCheckBoxListModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\StudentCheckBoxListModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\StudentCheckBoxListModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T09:41:45.999Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AccountService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Services\\AccountService.cs",
-              "RelativeDocumentMoniker": "Examination.BLL\\Services\\AccountService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Services\\AccountService.cs",
-              "RelativeToolTip": "Examination.BLL\\Services\\AccountService.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAuwBYAAAAqAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T09:37:01.42Z",
+              "WhenOpened": "2024-08-15T19:08:17.62Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IAccountService.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Services\\IAccountService.cs",
-              "RelativeDocumentMoniker": "Examination.BLL\\Services\\IAccountService.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.BLL\\Services\\IAccountService.cs",
-              "RelativeToolTip": "Examination.BLL\\Services\\IAccountService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Title": "QnAViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\QnAViewModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\QnAViewModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\QnAViewModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\QnAViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T09:31:19.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:08:09.93Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Users.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Users.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Entity\\Users.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Users.cs",
-              "RelativeToolTip": "Examination.Data\\Entity\\Users.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\UserViewModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\UserViewModel.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:53:14.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:08:00.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "UserViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\UserViewModel.cs",
-              "RelativeDocumentMoniker": "Examination.ViewModel\\UserViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.ViewModel\\UserViewModel.cs",
-              "RelativeToolTip": "Examination.ViewModel\\UserViewModel.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAADAAAAAMAAAA",
+              "Title": "StudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\StudentViewModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\StudentViewModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\StudentViewModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\StudentViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:52:48.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:07:51.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ResultViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\ResultViewModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\ResultViewModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\ResultViewModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\ResultViewModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:07:43.69Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\UnitOfWork\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\UnitOfWork\\UnitOfWork.cs",
-              "RelativeToolTip": "Examination.Data\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAASAAAA",
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\PagedResult.cs",
+              "RelativeToolTip": "Examination.ViewModel\\PagedResult.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:33:55.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:07:35.907Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\UnitOfWork\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\UnitOfWork\\IUnitOfWork.cs",
-              "RelativeToolTip": "Examination.Data\\UnitOfWork\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAASAAAA",
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\LoginViewModel.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T08:30:06.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:07:29.591Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "Examination.Data\\Repository\\GenericRepository.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwC0AAAASAAAA",
+              "Title": "ExamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\ExamViewModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\ExamViewModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\ExamViewModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\ExamViewModel.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-15T07:56:36.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Repository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Repository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Repository\\IGenericRepository.cs",
-              "RelativeToolTip": "Examination.Data\\Repository\\IGenericRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:37:57.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:07:22.178Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "StudentDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\StudentDbContext.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Entity\\StudentDbContext.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\StudentDbContext.cs",
-              "RelativeToolTip": "Examination.Data\\Entity\\StudentDbContext.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBwAAAAAAAAA",
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\Users.cs",
+              "RelativeDocumentMoniker": "Examination.Data\\Entity\\Users.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\Users.cs",
+              "RelativeToolTip": "Examination.Data\\Entity\\Users.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:26:28.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:07:06.032Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "QnAs.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\QnAs.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Entity\\QnAs.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\QnAs.cs",
-              "RelativeToolTip": "Examination.Data\\Entity\\QnAs.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAArAAAA",
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Examination.Data\\Entity\\StudentDbContext.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\StudentDbContext.cs",
+              "RelativeToolTip": "Examination.Data\\Entity\\StudentDbContext.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAmwCEAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:22:05.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:06:57.726Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ExamResults.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\ExamResults.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Entity\\ExamResults.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\ExamResults.cs",
-              "RelativeToolTip": "Examination.Data\\Entity\\ExamResults.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBMAAAAAAAAA",
+              "Title": "QnAs.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\QnAs.cs",
+              "RelativeDocumentMoniker": "Examination.Data\\Entity\\QnAs.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\QnAs.cs",
+              "RelativeToolTip": "Examination.Data\\Entity\\QnAs.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:18:01.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:06:52.286Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Exams.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Exams.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Entity\\Exams.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Exams.cs",
-              "RelativeToolTip": "Examination.Data\\Entity\\Exams.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAA0AAAA",
+              "Title": "Groups.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\Groups.cs",
+              "RelativeDocumentMoniker": "Examination.Data\\Entity\\Groups.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\Groups.cs",
+              "RelativeToolTip": "Examination.Data\\Entity\\Groups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:13:32.686Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:06:39.527Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Students.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Students.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Entity\\Students.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Students.cs",
-              "RelativeToolTip": "Examination.Data\\Entity\\Students.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBwAAAAAAAAA",
+              "Title": "Exams.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\Exams.cs",
+              "RelativeDocumentMoniker": "Examination.Data\\Entity\\Exams.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\Exams.cs",
+              "RelativeToolTip": "Examination.Data\\Entity\\Exams.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA/wBwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:09:12.938Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-15T19:06:25.507Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "Groups.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Groups.cs",
-              "RelativeDocumentMoniker": "Examination.Data\\Entity\\Groups.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\Examination\\Examination.Data\\Entity\\Groups.cs",
-              "RelativeToolTip": "Examination.Data\\Entity\\Groups.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Title": "ExamResults.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\ExamResults.cs",
+              "RelativeDocumentMoniker": "Examination.Data\\Entity\\ExamResults.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.Data\\Entity\\ExamResults.cs",
+              "RelativeToolTip": "Examination.Data\\Entity\\ExamResults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-14T18:06:24.925Z",
-              "EditorCaption": ""
-            }
-          ]
-        },
-        {
-          "DockedWidth": 864,
-          "SelectedChildIndex": -1,
-          "Children": [
+              "WhenOpened": "2024-08-15T19:06:21.435Z"
+            },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Examination.BLL\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Examination.BLL\\Services\\IAccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:05:56.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Examination.BLL\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\AccountService.cs",
+              "RelativeToolTip": "Examination.BLL\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T19:05:50.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IQnAService.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IQnAService.cs",
+              "RelativeDocumentMoniker": "Examination.BLL\\Services\\IQnAService.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IQnAService.cs",
+              "RelativeToolTip": "Examination.BLL\\Services\\IQnAService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:21:33.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IExamService.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IExamService.cs",
+              "RelativeDocumentMoniker": "Examination.BLL\\Services\\IExamService.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IExamService.cs",
+              "RelativeToolTip": "Examination.BLL\\Services\\IExamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:18:56.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IGroupService.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IGroupService.cs",
+              "RelativeDocumentMoniker": "Examination.BLL\\Services\\IGroupService.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IGroupService.cs",
+              "RelativeToolTip": "Examination.BLL\\Services\\IGroupService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:11:50.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendExamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\AttendExamViewModel.cs",
+              "RelativeDocumentMoniker": "Examination.ViewModel\\AttendExamViewModel.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.ViewModel\\AttendExamViewModel.cs",
+              "RelativeToolTip": "Examination.ViewModel\\AttendExamViewModel.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:04:45.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "Examination.BLL\\Services\\IStudentService.cs",
+              "ToolTip": "C:\\Users\\Rushikesh\\Desktop\\OnlineExamination\\Examination.BLL\\Services\\IStudentService.cs",
+              "RelativeToolTip": "Examination.BLL\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:57:07.695Z"
             }
           ]
         }

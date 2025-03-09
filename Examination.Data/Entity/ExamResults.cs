@@ -12,6 +12,7 @@ namespace Examination.Data.Entity
 
         public int Answer { get; set; }
 
+
         public int StudentsId { get; set; }
 
         public Students Student { get; set; }

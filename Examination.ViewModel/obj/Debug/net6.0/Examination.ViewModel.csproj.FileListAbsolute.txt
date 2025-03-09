@@ -1,0 +1,16 @@
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\bin\Debug\net6.0\Examination.ViewModel.deps.json
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\bin\Debug\net6.0\Examination.ViewModel.dll
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\bin\Debug\net6.0\Examination.ViewModel.pdb
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\bin\Debug\net6.0\Examination.Data.dll
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\bin\Debug\net6.0\Examination.Data.pdb
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.AssemblyInfo.cs
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.sourcelink.json
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examinat.795CC9F7.Up2Date
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.dll
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\refint\Examination.ViewModel.dll
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\Examination.ViewModel.pdb
+C:\Users\Rushikesh\Desktop\OnlineExamination\Examination.ViewModel\obj\Debug\net6.0\ref\Examination.ViewModel.dll
